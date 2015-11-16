@@ -2,8 +2,8 @@
 //  main.m
 //  ProgrammingAssessmentiOS
 //
-//  Created by MCS on 11/13/15.
-//  Copyright © 2015 MCS. All rights reserved.
+//  Created by Diego Eduardo on 11/13/15.
+//  Copyright © 2015 Diego Eduardo. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
